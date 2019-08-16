@@ -434,7 +434,7 @@ body {
   #profile {
     width: 90vw;
     padding: 4vh 5vw;
-    height: 60vh;
+    min-height: 60vh;
     text-align: center;
     position: relative;
   }
