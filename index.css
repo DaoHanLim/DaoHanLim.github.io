@@ -439,6 +439,12 @@ body {
     position: relative;
   }
 
+  #userbio {
+    font-size: 14px;
+    font-family: "Questrial", sans-serif;
+    width: 100%;
+  }
+
   #display {
     width: 90vw;
     padding: 4vh 5vw;
